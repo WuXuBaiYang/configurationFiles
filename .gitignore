@@ -3,6 +3,7 @@ bin
 gen
 lint.xml
 lint
+release
 
 #Eclipse
 .project
